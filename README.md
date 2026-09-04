@@ -10,3 +10,5 @@ allows the user to login or register with their credentials and choose what thei
 ERD
 API Endpoint Plan
 SQL Database Script
+## youtubelink
+https://youtu.be/POCAbMw-9Hg
