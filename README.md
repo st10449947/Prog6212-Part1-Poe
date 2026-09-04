@@ -4,3 +4,9 @@
 # RACEDAY Event Management System
 ## Project Description
 The project is a web-based event management system for South African road running, walking and cyclying events.
+## User Roles
+allows the user to login or register with their credentials and choose what their role is so they could be taken to the correct channels of the web 
+## Part 1
+ERD
+API Endpoint Plan
+SQL Database Script
