@@ -18,3 +18,6 @@ https://youtu.be/POCAbMw-9Hg
 part2 phase of creating an Api 
 ## User Role
 is to register and state whether they are a participant or an organiser
+## How to run the Api
+execution of the file which will take you straight to the swagger
+
