@@ -20,4 +20,6 @@ part2 phase of creating an Api
 is to register and state whether they are a participant or an organiser
 ## How to run the Api
 execution of the file which will take you straight to the swagger
+## youtube link
+https://youtu.be/tVia6BbkN_o?si=gUckK7B4i0vLUQr_ 
 
