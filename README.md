@@ -12,3 +12,9 @@ API Endpoint Plan
 SQL Database Script
 ## youtubelink
 https://youtu.be/POCAbMw-9Hg
+
+## RaceDay 
+## Project description
+part2 phase of creating an Api 
+## User Role
+is to register and state whether they are a participant or an organiser
